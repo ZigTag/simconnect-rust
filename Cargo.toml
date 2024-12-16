@@ -1,5 +1,5 @@
 [package]
-name = "simconnect"
+name = "simconnect_32"
 license = "MIT"
 description = "Rust bindings for SimConnect"
 version = "0.3.2"
